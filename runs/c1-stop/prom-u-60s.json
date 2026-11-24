@@ -1,0 +1,1 @@
+{"status":"success","data":{"resultType":"vector","result":[{"metric":{"instance":"127.0.0.1:8103"},"value":[1795359818,"0.11691907999999998"]},{"metric":{"instance":"127.0.0.1:8102"},"value":[1795359818,"0.11721936"]},{"metric":{"instance":"127.0.0.1:8101"},"value":[1795359818,"0.11712223999999997"]}]}}
